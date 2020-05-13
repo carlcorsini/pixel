@@ -1,0 +1,21 @@
+.sqr {
+  height: 250px;
+  width: 250px;
+  border: 1px solid black;
+}
+
+#container {
+  height: 96vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#palette {
+  margin-bottom: 1em;
+  height: 50px;
+  width: 100px;
+  border: 1px solid black
+}
+
